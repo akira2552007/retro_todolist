@@ -3,11 +3,10 @@
 A nostalgic, Nokia-inspired to-do list app built with ❤️ in Flutter.  
 Designed to be **minimal**, **pixelated**, and **productivity-focused** — a perfect blend of old-school vibes and modern functionality.
 
-<img src="https://raw.githubusercontent.com/akira2552007/retro_todolist/main/assets/screenshots/splash.jpg" alt="App Preview" width="400"/>
 
-<img src="https://raw.githubusercontent.com/akira2552007/retro_todolist/main/assets/screenshots/new_task.jpg" alt="App Preview" width="400"/>
-
-<img src="https://raw.githubusercontent.com/akira2552007/retro_todolist/main/assets/screenshots/to_do_list_main.jpg" alt="App Preview" width="400"/>
+| Splash Screen | Add Task | To-Do List |
+|---------------|----------|------------|
+| <img src="https://raw.githubusercontent.com/akira2552007/retro_todolist/main/assets/screenshots/splash.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/akira2552007/retro_todolist/main/assets/screenshots/new_task.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/akira2552007/retro_todolist/main/assets/screenshots/to_do_list_main.jpg" width="250"/> |
 
 ---
 
