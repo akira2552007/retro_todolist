@@ -34,3 +34,10 @@ git clone https://github.com/akira2552007/retro_todolist.git
 cd retro_todolist
 flutter pub get
 flutter run
+
+
+👨‍💻 Author
+
+Made with ☕ + nostalgia by Mridul Sharma
+
+📸 Instagram: @k4rt_c0b
